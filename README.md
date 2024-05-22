@@ -86,6 +86,8 @@ The project uses the following libraries:
 
 Ensure all dependencies are installed by running `npm install` before attempting to run the application.
 
+Demo Mobile Application prototype: <a href = "http://bit.ly/Bhanggarwala">Click Here!!</a>
+
 ## Contributing
 
 Feel free to fork this repository and contribute by submitting a pull request. Please ensure your code follows the existing code style and includes appropriate tests.

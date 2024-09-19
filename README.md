@@ -27,7 +27,7 @@ Make sure you have the following installed on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Bhanggarwala.git
+   [git clone https://github.com/your-username/Bhanggarwala.git](https://github.com/cp0430/Bhanggarwala.git)
    ```
 
 2. Navigate to the project directory:
